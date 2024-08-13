@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../IntroduccionJS-FIN/js"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "js"
+	}
+}
